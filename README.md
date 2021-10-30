@@ -1,2 +1,2 @@
 # workshop
-Traning Purpose
+Azure and Github Workshop
